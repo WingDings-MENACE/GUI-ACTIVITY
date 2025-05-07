@@ -2,6 +2,6 @@
 MY NAME IS ERN LAURENCE A SANTOS
 
 ACTIVITY
-![image](https://github.com/user-attachments/assets/464b0d2d-3967-4a87-a94d-cdc2c0e5dd28)
 
+![image](https://github.com/user-attachments/assets/2f990760-558e-4cb7-84d4-91f4890389bd)
 

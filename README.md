@@ -1,6 +1,10 @@
 # GUI-ACTIVITY
 MY NAME IS ERN LAURENCE A SANTOS
 
+FOR THE PROJECT FILE JUST RUN THE LOGIN AND CREATE AN ACCOUNT
+
+
+
 ACTIVITY
 
 ![image](https://github.com/user-attachments/assets/65fee40c-28d9-4794-afb0-28a57bdaafb4)
